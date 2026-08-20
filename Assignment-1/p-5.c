@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Three numbers are 25,40 and 55 . Write a C program to calculate and display their sum and average.
+// Three numbers are 25,40 and 55. Write a C program to calculate and display their sum and average.
 
 int main()
 {
