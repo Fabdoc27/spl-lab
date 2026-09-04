@@ -1,2 +1,4 @@
 BasedOnStyle: Microsoft
 BreakBeforeBraces: Attach
+IndentCaseLabels: true
+ColumnLimit: 0
