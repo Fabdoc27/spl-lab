@@ -4,3 +4,4 @@
 - [x] Assignment 2 (Due Aug 31, 2026 @ 11:59)
 - [x] Assignment 3 (Due Sep 1, 2026 @ 11:59)
 - [x] Assignment 4 (Due Sep 8, 2026 @ 11:59)
+- [x] Assignment 5 (Due Sep 15, 2026 @ 11:59)
